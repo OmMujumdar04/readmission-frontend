@@ -47,21 +47,6 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 
 Point this to your deployed backend URL in production.
 
-### Run locally
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-### Build for production
-
-```bash
-npm run build
-npm start
-```
-
 ## How It Works
 
 1. User fills out the patient data form (lab procedures, medications, time in hospital, age, diagnosis categories, admission/discharge details, etc.)
